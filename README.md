@@ -2,7 +2,7 @@
 
 ### Snowflake Data Engineer | 3.9 Years Experience
 
-Technical Data Engineer with 3.9+ years of experience building end-to-end cloud data pipelines, optimizing SQL queries, and handling ETL/ELT workflows using Snowflake, Python, and IBM DataStage.
+Technical Data Engineer with 3.9 years of experience building end-to-end cloud data pipelines, optimizing SQL queries, and handling ETL/ELT workflows using Snowflake, Python, and IBM DataStage.
 
 - 🔭 **I’m currently working on:** Building and optimizing scalable ETL/ELT cloud data pipelines using Snowflake & Python
 - 🌱 **I’m currently learning:** Data Modeling, and Cloud Architecture
